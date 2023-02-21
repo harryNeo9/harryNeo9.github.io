@@ -21,7 +21,7 @@ timezone: Asia/Kolkata
 
 title: Harishankar P V                          # the main title
 
-tagline: Quantum AI Research Intern, Qulabs || Founder President, Quantum Computing Club || Founding Member, Quantum Computing Society   # it will display as the sub-title
+tagline: Quantum AI Research Intern, Qulabs || QETCI Member || Founder President, Quantum Computing Club || Founding Member, Quantum Computing Society   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   My Personal Portfolio & Blogsite. Built with a minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -35,6 +35,9 @@ github:
 twitter:
   username: harryNeo9           # change to your twitter username
 
+linkedin:
+  username: harishankarpv
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -42,6 +45,7 @@ social:
   email: harishankarpv9@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/harishankarpv/
     - https://twitter.com/harryNeo9     # change to your twitter homepage
     - https://github.com/harryNeo9      # change to your github homepage
     # Uncomment below to add more social links
@@ -71,7 +75,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1577306816626954242/FNa0C8gj_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1627960334534455296/at_VNEXh_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
