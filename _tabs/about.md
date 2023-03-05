@@ -12,7 +12,7 @@ order: 1
 
 # About
 
-Sit work in progress. Will be updated soon!
+Site work in progress. Will be updated soon!
 
 <!-- Hi, I'm Harishankar P V. I'm a [Your Job Title/Description]. I am passionate about using my skills and knowledge to create impactful solutions for real-world problems. -->
 
