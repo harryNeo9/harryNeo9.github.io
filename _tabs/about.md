@@ -12,11 +12,13 @@ order: 1
 
 # About
 
-Hi, I'm [Your Name]. I'm a [Your Job Title/Description]. I am passionate about using my skills and knowledge to create impactful solutions for real-world problems.
+Sit work in progress. Will be updated soon!
 
-Check out my [Resume](resume.pdf) for more details about my professional background and achievements.
+<!-- Hi, I'm Harishankar P V. I'm a [Your Job Title/Description]. I am passionate about using my skills and knowledge to create impactful solutions for real-world problems. -->
 
-</div>
+<!-- Check out my [Resume](resume.pdf) for more details about my professional background and achievements. -->
+
+<!-- </div>
 
 <div style="background-color: green; padding: 20px;">
 
@@ -48,4 +50,4 @@ Feel free to reach out to me on:
 
 [![LinkedIn](https://icon.now.sh/linkedin/24/000000)](https://www.linkedin.com/in/[Your LinkedIn Profile URL])
 [![GitHub](https://icon.now.sh/github/24/000000)](https://github.com/[Your GitHub Profile URL])
-[![Twitter](https://icon.now.sh/twitter/24/000000)](https://twitter.com/[Your Twitter Handle])
+[![Twitter](https://icon.now.sh/twitter/24/000000)](https://twitter.com/[Your Twitter Handle]) -->
